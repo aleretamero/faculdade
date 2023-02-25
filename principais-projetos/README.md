@@ -1,4 +1,3 @@
-# principais-projetos-faculdade
  **Principais projetos desenvolvidos durante o curso de ADS (Uninove)**
 <hr/>
 <br/>
