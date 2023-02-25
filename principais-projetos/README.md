@@ -11,7 +11,7 @@
   
  <br/>
  
-> ![](images/html.svg)![](images/css.svg) 
+> ![](../images/html.svg)![](../images/css.svg) 
 >> [clique aqui](https://aleretamero.github.io/principais-projetos-faculdade/treinando-layout-001/) para acessar o a página do projeto.
 
 <hr/>
@@ -25,7 +25,7 @@
  
  <br/>
 
-> ![](images/html.svg)![](images/css.svg) 
+> ![](../images/html.svg)![](../images/css.svg) 
 >> [clique aqui](https://aleretamero.github.io/principais-projetos-faculdade/treinando-tabela-001/) para acessar o a página do projeto.
 
 <hr/>
