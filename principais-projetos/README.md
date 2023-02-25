@@ -7,7 +7,7 @@
  
  <br/>
  
- <img src="https://www.os-templates.com/website-templates/template-demos/free-basic-html5-templates/basic-88/thumb.jpg" width="500px">
+ <img src="https://www.os-templates.com/website-templates/template-demos/free-basic-html5-templates/basic-88/thumb.jpg" width="300px">
   
  <br/>
  
@@ -22,7 +22,7 @@
  
  <br/>
  
- <img src="treinando-tabela-001/images/modelo-tabela.png" width="500px"> 
+ <img src="treinando-tabela-001/images/modelo-tabela.png" width="300px"> 
  
  <br/>
 
