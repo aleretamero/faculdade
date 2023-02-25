@@ -12,7 +12,7 @@
  <br/>
  
 > ![](../images/html.svg)![](../images/css.svg) 
->> [clique aqui](https://aleretamero.github.io/principais-projetos-faculdade/treinando-layout-001/) para acessar o a página do projeto.
+>> [clique aqui](./treinando-layout-001/index.html) para acessar o a página do projeto.
 
 <hr/>
 <br/>
@@ -26,7 +26,7 @@
  <br/>
 
 > ![](../images/html.svg)![](../images/css.svg) 
->> [clique aqui](https://aleretamero.github.io/principais-projetos-faculdade/treinando-tabela-001/) para acessar o a página do projeto.
+>> [clique aqui](./treinando-tabela-001/index.html) para acessar o a página do projeto.
 
 <hr/>
 <br/>
