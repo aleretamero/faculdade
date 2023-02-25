@@ -6,5 +6,5 @@
 <br>
 <hr>
 <br>
-<img src="./images/bg-ads.jpg">
+<img src="./images/bg-ads.jpg" width="500">
   
