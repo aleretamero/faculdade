@@ -2,7 +2,8 @@
 <hr/>
 <br/>
  <!-- ex001 -->
- **Exercício Layout →** Treinando a construção da estrutura de um layout, utilizando como base o modelo [Basic 88](https://www.os-templates.com/free-basic-html5-templates/basic-88) do site [OS Templates](https://www.os-templates.com/).
+ 
+ **Exercício Layout→** Treinando a construção da estrutura de um layout, utilizando como base o modelo [Basic 88](https://www.os-templates.com/free-basic-html5-templates/basic-88) do site [OS Templates](https://www.os-templates.com/).
  
  <br/>
  
@@ -17,11 +18,12 @@
 <hr/>
 <br/>
 <!-- ex002 -->
- **Exercício Tabela →** Treinando a construção de uma tabela, utilizando como base o seguinte modelo:
+ 
+ **Exercício Tabela→** Treinando a construção de uma tabela, utilizando como base o seguinte modelo:
  
  <br/>
  
- <img src="treinando-tabela-001/images/modelo-tabela.png" width="300px"> 
+ <img src="ex002/images/modelo-tabela.png" width="300px"> 
  
  <br/>
 
