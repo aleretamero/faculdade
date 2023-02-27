@@ -1,4 +1,4 @@
-## Principais projetos desenvolvidos durante o curso de ADS
+## Principais projetos desenvolvidos durante o curso de ADS (Uninove)
 <br>
 
 <ul>
