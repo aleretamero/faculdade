@@ -44,7 +44,7 @@
  <br/>
 
 > ![](../images/html.svg)![](../images/css.svg)
->> [clique aqui](https://aleretamero.github.io/faculdade/desenvolvimento-para-internet/ex003/) para acessar o a página do projeto.
+>> [clique aqui](https://aleretamero.github.io/faculdade/desenvolvimento-para-internet/ex003/index.html) para acessar o a página do projeto.
 >>> [clique aqui](./ex003/) para acessar o diretório do projeto.
 
 <hr/>
